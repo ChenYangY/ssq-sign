@@ -1,0 +1,28 @@
+{
+  "name": "ssq-sign",
+  "version": "0.0.1",
+  "description": "尚尚签平台sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenYangY/ssq-sign.git"
+  },
+  "author": "chenyangyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChenYangY/ssq-sign/issues"
+  },
+  "homepage": "https://github.com/ChenYangY/ssq-sign#readme",
+  "dependencies": {
+    "got": "^10.7.0",
+    "jsrsasign": "^10.1.4",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
